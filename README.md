@@ -1,11 +1,12 @@
 # bostonhouseprincing
-1.# software tools
+
+# software and tools requirements
 Github Account
 HerokuAccount
 VSCodeIDE
 GitCLI
 
-2.Create new environment
+# Create new environment
 
 '''
 conda create -p venv python==3.7 -y
