@@ -1,4 +1,4 @@
-# bostonhouseprincing
+# bostonhousepricing
 
 # software and tools requirements
 Github Account
